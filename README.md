@@ -2,7 +2,7 @@
 
 I made optimizations on Udacity portfolio.
 
-URL: [https://justaszaltauskas.github.io/Udacity-portfolio-optimisation
+URL: https://justaszaltauskas.github.io/Udacity-portfolio-optimisation
 
 Page Speed Insights Results:
 Mobile: 94
