@@ -1,4 +1,4 @@
-# Udacity portfolio optimisation
+# Udacity portfolio optimization
 
 I made optimizations on Udacity portfolio.
 
