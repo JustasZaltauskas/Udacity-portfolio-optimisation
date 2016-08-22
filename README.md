@@ -5,8 +5,8 @@ I made optimizations on Udacity portfolio.
 URL: https://justaszaltauskas.github.io/Udacity-portfolio-optimisation
 
 Page Speed Insights Results:
-+ Mobile: 94
-+ Desktop: 95
++ Mobile: 95
++ Desktop: 96
 
 ## Optimizations:
 1. Removed @media print query from style.css and created print.css stylesheet which is only used for printing.
