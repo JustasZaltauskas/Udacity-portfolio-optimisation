@@ -1,4 +1,4 @@
-# H1 Udacity portfolio optimisation
+# Udacity portfolio optimisation
 
 I made optimizations on Udacity portfolio.
 
@@ -6,7 +6,7 @@ Page Speed Insights Results:
 Mobile: 94
 Desktop: 95
 
-## H2 Optimizations:
+## Optimizations:
 1. Removed @media print query from style.css and created print.css stylesheet which is only used for printing.
 2. Inlined style.css.
 3. Load google analytics asynchronously.
