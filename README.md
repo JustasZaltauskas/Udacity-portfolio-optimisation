@@ -22,6 +22,8 @@ https://justaszaltauskas.github.io/Udacity-portfolio-optimisation/
 6. Optimized the pizzeria image, shrink it to 115 pixels wide.
 7. Minified HTML and JS file.
 
+##
+
 https://justaszaltauskas.github.io/Udacity-portfolio-optimisation/views/pizza.html
 
 + Mobile: 89
