@@ -6,6 +6,8 @@ URL: https://justaszaltauskas.github.io/Udacity-portfolio-optimisation
 
 My main focus was on main index and pizzeria pages.
 
+---
+
 Page Speed Insights Results: 
 
 https://justaszaltauskas.github.io/Udacity-portfolio-optimisation/
@@ -22,7 +24,7 @@ https://justaszaltauskas.github.io/Udacity-portfolio-optimisation/
 6. Optimized the pizzeria image, shrink it to 115 pixels wide.
 7. Minified HTML and JS file.
 
-##
+---
 
 https://justaszaltauskas.github.io/Udacity-portfolio-optimisation/views/pizza.html
 
