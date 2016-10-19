@@ -1,5 +1,5 @@
 # Udacity portfolio optimisation project
-Project 5 from Udacity Front-end Web Developer Nanodegree.
+Project 4 from Udacity Front-end Web Developer Nanodegree.
 
 I was provided with Udcacity portfolio web page. My task was to optimize it to run at 60 frames per second and reach a target score on Google pagespeed insights.
 
