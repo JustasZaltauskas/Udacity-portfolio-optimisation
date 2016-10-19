@@ -1,6 +1,7 @@
 # Udacity portfolio optimisation project
+Project 5 from Udacity Front-end Web Developer Nanodegree.
 
-I was provided with Udcacity portfolio web page. My task was to optimize it to run at 60 frames per second and reach target score on Google pagespeed insights.
+I was provided with Udcacity portfolio web page. My task was to optimize it to run at 60 frames per second and reach a target score on Google pagespeed insights.
 
 URL: https://justaszaltauskas.github.io/Udacity-portfolio-optimisation
 
@@ -22,7 +23,7 @@ https://justaszaltauskas.github.io/Udacity-portfolio-optimisation/
 4. Used JS library "Webfont Loader" to load web fonts asynchronously.
 5. Moved all javascript code to the bottom of the body tag.
 6. Optimized the pizzeria image, shrink it to 115 pixels wide.
-7. Minified HTML and JS file.
+7. Minified HTML and JS files.
 
 ---
 
