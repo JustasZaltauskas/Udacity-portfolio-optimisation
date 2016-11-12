@@ -36,7 +36,8 @@ https://justaszaltauskas.github.io/Udacity-portfolio-optimisation/views/pizza.ht
 1. Made page to run at 60fps.
 2. Optimised the main picture and made its file size responsive to the viewport size.
 3. Optimised pizza picture.
-4. Simplified views/js/main.js javascript code, removed forced synchronous layout also known as layout trashing.
+4. Optimised views/js/main.js javascript code, removed forced synchronous layout also known as layout trashing , changed document.query
+ Selector to document.getElementById which is faster. Dynamically calculate the number of pizzas needed to fill the screen, based on browser window resolution.
 5. Removed unused bootstrap css styles via grunt.
 6. Minified HTML and JS code.
 7. Inlined CSS.
