@@ -4,6 +4,7 @@ Project 4 from Udacity Front-end Web Developer Nanodegree.
 I was provided with Udcacity portfolio web page. My task was to optimize it to run at 60 frames per second and reach a target score on Google pagespeed insights.
 
 URL: https://justaszaltauskas.github.io/Udacity-portfolio-optimisation
+You can run the project by opening the index.html file.
 
 My main focus was on main index and pizzeria pages.
 
