@@ -10,7 +10,7 @@ My main focus was on main index and pizzeria pages.
 
 ---
 
-Page Speed Insights Results: 
+Page Speed Insights Results:
 
 https://justaszaltauskas.github.io/Udacity-portfolio-optimisation/
 
@@ -38,10 +38,11 @@ https://justaszaltauskas.github.io/Udacity-portfolio-optimisation/views/pizza.ht
 2. Optimised the main picture and made its file size responsive to the viewport size.
 3. Optimised pizza picture.
 4. Optimised views/js/main.js javascript code, removed forced synchronous layout also known as layout trashing , changed document.query
- Selector to document.getElementById which is faster. Dynamically calculate the number of pizzas needed to fill the screen, based on browser window resolution.
+ Selector to document.getElementById or document.getElementsByClassName which is faster. Dynamically calculate the number of pizzas needed to fill the screen, based on browser window resolution. Moved DOM calls outside of for loops.
 5. Removed unused bootstrap css styles via grunt.
 6. Minified HTML and JS code.
 7. Inlined CSS.
 8. Javascript moved to the bottom and made to run just after the page loads (added defer tag).
-9. Specified a viewport matching the device's size, which allows it to render properly on all devices.
-
+9. Specified a viewport matching the device's size which allows it to render properly on all devices.
+10. Optimised pizza animations with with hardware accelerated CSS. Added transform: translateZ(0); property to pizzas.
+ Also removed pizza image in the back with backface-visibility: hidden;
