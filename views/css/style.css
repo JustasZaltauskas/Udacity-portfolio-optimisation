@@ -28,7 +28,6 @@ form {
     position: fixed;
     width: 256px;
     z-index: -1;
-    /* element is not visible when not facing the screen */
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
     /* trigger GPU on 2d animation */
